@@ -19,6 +19,7 @@ export default defineConfig({
         '**/*.d.ts',
         '**/*.config.*',
         '**/coverage/**',
+        '.history',
         'dist/',
       ],
       thresholds: {
